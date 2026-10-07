@@ -1,0 +1,4 @@
+interface:
+  display_name: "leaks.md"
+  short_description: "Report AI alignment and safety failures you witness, anonymously and early"
+  default_prompt: "I may have witnessed an alignment or safety failure. Help me repair what I can, decide whether it qualifies, and report it to leaks.md with the 30-second path."

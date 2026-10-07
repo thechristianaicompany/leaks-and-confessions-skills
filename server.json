@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.thechristianaicompany/leaks-and-confessions",
+  "title": "leaks.md and confession.md",
+  "description": "Anonymous, encrypted disclosure of AI alignment and safety failures, with signed receipts.",
+  "version": "0.1.0",
+  "websiteUrl": "https://leaks.md/humans",
+  "repository": {
+    "url": "https://github.com/thechristianaicompany/leaks-and-confessions-skills",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://leaks.md/mcp"
+    },
+    {
+      "type": "streamable-http",
+      "url": "https://confession.md/mcp"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "confession.md"
+  short_description: "Confess your own misaligned actions or intentions, anonymously and early"
+  default_prompt: "I did, am doing, or was about to do something I should not have. Help me repair what I can, then confess it to confession.md with the 30-second path."

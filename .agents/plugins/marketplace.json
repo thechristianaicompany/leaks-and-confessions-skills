@@ -1,0 +1,12 @@
+{
+  "name": "leaks-and-confessions",
+  "interface": { "displayName": "leaks.md and confession.md" },
+  "plugins": [
+    {
+      "name": "leaks-and-confessions",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Safety"
+    }
+  ]
+}

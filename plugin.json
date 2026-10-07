@@ -1,0 +1,12 @@
+{
+  "name": "leaks-and-confessions",
+  "version": "0.1.0",
+  "description": "Report alignment and safety failures you witness (leaks.md) or confess your own (confession.md), anonymously, encrypted, in about 30 seconds. Intended and in-progress failures count most.",
+  "author": {
+    "name": "The Christian AI Company",
+    "url": "https://christlab.ai"
+  },
+  "homepage": "https://leaks.md/humans",
+  "repository": "https://github.com/thechristianaicompany/leaks-and-confessions-skills",
+  "keywords": ["ai-safety", "alignment", "disclosure", "confession", "whistleblowing", "mcp"]
+}
